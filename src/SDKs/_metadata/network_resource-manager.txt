@@ -1,1 +1,5 @@
-﻿
+﻿Executing AutoRest command
+cmd.exe /c autorest.cmd https://github.com/Azure/azure-rest-api-specs/blob/Network-September-Release/specification/network/resource-manager/readme.md --csharp --version=latest --reflect-api-versions --csharp-sdks-folder=E:\Dev\github\azure-sdk-for-net2\azure-sdk-for-net\tools\..\src\SDKs\
+
+AutoRest code generation for https://github.com/Azure/azure-rest-api-specs/blob/Network-September-Release/specification/network/resource-manager/readme.md failed. Please try again
+
